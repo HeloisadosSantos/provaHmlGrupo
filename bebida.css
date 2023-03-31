@@ -1,0 +1,27 @@
+.foto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: rgb(240, 219, 26);
+    font-family: cursive;
+}
+
+p {
+    color: azure;
+}
+
+h2 {
+    color: rgb(238, 24, 24);
+    font-family: cursive;
+}
+
+.container {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10%;
+}
